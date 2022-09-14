@@ -1,0 +1,54 @@
+.component-input {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 15px;
+	z-index: 1;
+}
+
+.component-input__block {
+	width: 350px;
+	z-index: 1;
+}
+
+.component-input__text {
+	height: 34px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 44px;
+	color: #000000;
+	z-index: 1;
+}
+
+.block-input {
+	width: 250px;
+	height: 40px;
+	background: #FFFDFD;
+	border-radius: 10px;
+	text-align: right;
+	z-index: 1;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+	color: #000000;
+}
+
+.additional-style {
+	height: 44px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+	color: #000000;
+	z-index: 1;
+}
+
+.text-end {
+	margin-left: 15px;
+	z-index: 1;
+}

@@ -1,0 +1,93 @@
+.wrapper {
+	width: 100%;
+	height: 600px;
+	background: #30EF00;
+	padding-top: 50px;
+}
+
+.title {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 77px;
+	color: #000000;
+	display: block;
+	text-align: center;
+
+}
+
+.block {
+	width: 1150px;
+	margin-top: 70px;
+	/* margin-left: auto;
+	margin-right: auto; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.block__input {}
+
+.block__chart {}
+
+.onwrite {
+	/* width: 500px;
+	height: 100px; */
+	margin-bottom: 40px;
+}
+
+.onwrite__text {
+	width: 100px;
+	height: 100%;
+	display: inline;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+
+	color: #000000;
+}
+
+.input-valute {
+	width: 200px;
+	height: 100%;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+	text-align: center;
+	color: #000000;
+}
+
+select {
+	width: 420px;
+	height: 100%;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+
+	color: #000000;
+}
+
+.outwrite {}
+
+span {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 44px;
+	margin-bottom: 20px;
+}
